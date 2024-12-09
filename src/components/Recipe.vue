@@ -87,7 +87,7 @@ const recipe = ref({
   title: "Simple Omelette Recipe",
   description:
     "An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked to perfection, optionally filled with your choice of cheese, vegetables, or meats.",
-  image: "./src/assets/images/image-omelette.jpeg",
+  image: "./image-omelette.jpeg",
   subtitle: {
     prepTime: "Preparation time",
     ingredients: "Ingredients",
